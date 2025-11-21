@@ -22,9 +22,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 + Bootstrap IntelliSense
 + Node.js Exec
 + markdownlint
-
-@@ Instaladas, mas trocaria se possível:
-! CodeSnap
++ CodeSnap
 
 @@ Tema atual:
 @@ Hashira Code Theme (Mitsuri Kanroji) @@
@@ -46,4 +44,4 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 <h4>Arquivos HTML:</h4>
 
-`!` ― Cria a estrutura essencial (boilerplate) de um arquivo HTML.
+`!` ― Cria a estrutura essencial (Boilerplate) de um arquivo HTML.
