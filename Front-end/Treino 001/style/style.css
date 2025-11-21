@@ -1,13 +1,16 @@
+/* Declaração de variáveis do CSS */
 :root{
     --cor-fundo: #f5f5f5;
     --cor-texto: #0c0c0c;
 }
 
+/* Sobrescrever as variáveis inicialmente declaradas pelos valores do modo escuro ao adicionar essa classe ao body */
 .modo_escuro{
     --cor-fundo: #0c0c0c;
     --cor-texto: #f5f5f5;
 }
 
+/* Seletor universal de todos os elementos */
 *{
     margin: 0;
     padding: 0;
@@ -20,6 +23,14 @@ body{
 
 h1, p{
     color: var(--cor-texto);
+}
+
+h1{
+    font-size: 42px;
+}
+
+p{
+    font-size: 24px;
 }
 
 .centralizar_coluna{
@@ -38,18 +49,22 @@ h1, p{
     background-color: var(--cor-fundo);
 }
 
+/* Mudar apenas as tags svg dentro do #mudar-tema */
 #mudar_tema svg{
     fill: var(--cor-texto);
 }
 
+/* Afeta apenas a última tag svg dentro do #mudar-tema */
 #mudar_tema svg:last-child{
     display: none;
 }
 
+/* Não exibir o ícone de lua ao habilitar o modo escuro */
 .modo_escuro #mudar_tema svg:first-child{
     display: none;
 }
 
+/* Exibir o ícone de sol ao habilitar o modo escuro */
 .modo_escuro #mudar_tema svg:last-child{
     display: block;
 }
