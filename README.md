@@ -14,6 +14,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 ```diff
 @@ Atualmente instaladas:
+
 + HTML CSS Support
 + Material Icon Theme
 + Live Server
@@ -25,6 +26,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 + CodeSnap
 
 @@ Tema atual:
+
 @@ Hashira Code Theme (Mitsuri Kanroji) @@
 ```
 
@@ -46,3 +48,15 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 <h4>Arquivos HTML:</h4>
 
 `!` ― Cria a estrutura essencial (Boilerplate) de um arquivo HTML.
+
+<h2>Navegador <img align="center" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" height="40"></h2>
+
+- Atualmente utilizo o Google Chrome, mas penso em migrar para o Mozilla Firefox em breve!
+
+<h3>Extensões:</h3>
+
+```diff
+@@ Atualmente instaladas:
+
++ Wappalyzer
+```
