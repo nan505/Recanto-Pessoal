@@ -20,6 +20,7 @@ Ambiente de desenvolvimento integrado (IDE) que possuo mais familiaridade.
 - [Bootstrap IntelliSense](https://marketplace.visualstudio.com/items?itemName=hossaini.bootstrap-intellisense)
 - [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 
 <h3>Temas:</h3>
 
