@@ -34,6 +34,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 ```diff
 @@ Configurações de interface:
+
 > "Move Primary Side Bar Right"
 ```
 
@@ -51,7 +52,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 <h2>Navegador <img align="center" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" height="40"></h2>
 
-- Atualmente utilizo o Google Chrome, mas penso em migrar para o Mozilla Firefox em breve!
+- Atualmente utilizo o Google Chrome, mas penso em migrar para o Mozilla Firefox <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height=20> em breve!
 
 <h3>Extensões:</h3>
 
