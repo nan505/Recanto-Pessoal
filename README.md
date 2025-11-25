@@ -42,6 +42,7 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 <h4>Gerais:</h4>
 
+`Ctrl + S` ― Salvar as modificações realizadas em um arquivo.<br>
 `Alt + ↓ ou ↑` ― Move a linha de código selecionada para a linha abaixo ou acima.<br>
 `Alt + Shift + ↓` ― Duplica a linha de código selecionada na linha abaixo.<br>
 `Ctrl + D` ― Com um texto selecionado, irá selecionar a próxima repetição do mesmo texto.
