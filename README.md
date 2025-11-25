@@ -51,9 +51,9 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 
 `!` ― Cria a estrutura essencial (Boilerplate) de um arquivo HTML.
 
-<h2>Navegador <img align="center" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" height="40"></h2>
+<h2>Mozilla Firefox <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="40"></h2>
 
-- Atualmente utilizo o Google Chrome, mas penso em migrar para o Mozilla Firefox <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height=20> em breve!
+- Realizei a migração de navegador recentemente por questões de performance, então ainda sou pouco acostumado com o Firefox!
 
 <h3>Extensões:</h3>
 
