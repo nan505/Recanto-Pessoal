@@ -61,4 +61,5 @@ Prazer, podem me chamar de <b>Nan</b>! Atualmente estou cursando T.I. e decidi c
 @@ Atualmente instaladas:
 
 + Wappalyzer
++ Material Icons for GitHub
 ```
