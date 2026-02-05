@@ -22,10 +22,33 @@ Ambiente de desenvolvimento integrado (IDE) que possuo mais familiaridade.
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 
+<b>Instalação via terminal do Visual Studio Code:</b>
+
+```cmd
+code --install-extension ecmel.vscode-html-css
+code --install-extension PKief.material-icon-theme
+code --install-extension ritwickdey.LiveServer
+code --install-extension usernamehw.errorlens
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension hossaini.bootstrap-intellisense
+code --install-extension miramac.vscode-exec-node
+code --install-extension adpyke.codesnap
+code --install-extension cweijan.vscode-mysql-client2
+```
+
 <h3>Temas:</h3>
 
 - [Hashira Code Theme](https://marketplace.visualstudio.com/items?itemName=devLocifer.hashira-code-theme) (Mitsuri Kanroji)
+
+```cmd
+code --install-extension devLocifer.hashira-code-theme
+```
+
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) (GitHub Dark Default)
+
+```cmd
+code --install-extension GitHub.github-vscode-theme
+```
 
 <h3>Configurações:</h3>
 
