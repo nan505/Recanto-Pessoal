@@ -76,7 +76,7 @@ Realizei a migração de navegador recentemente por questões de performance, en
 - [Wappalyzer](https://addons.mozilla.org/pt-BR/firefox/addon/wappalyzer/)
 - [Material Icons for GitHub](https://addons.mozilla.org/pt-BR/firefox/addon/material-icons-for-github/)
 
-<h2>Visual Studio <img align="center" src="https://skillicons.dev/icons?i=vs" height="40" alt="visual studio logo"></h2>
+<h2>Visual Studio <img align="center" src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo"></h2>
 
 Ambiente de desenvolvimento integrado (IDE) que utilizo para programação com C#.
 
